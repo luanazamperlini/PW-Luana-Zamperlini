@@ -1,0 +1,159 @@
+ /*HOME*/
+header{
+  padding: 3px;
+  margin: 10px 10px 0px 10px;
+  background-color: rgb(67, 63, 61);
+}
+
+.luana-zamperlini{
+  color: rgb(200, 70, 10);
+  font-size: 80px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  position:static;
+}
+
+.selfie{
+  padding: 10px;
+  margin: 10px;
+  height: 500px;
+  width: 400px;
+  border: 5px solid rgb(67, 63, 61);
+  display: inline;
+  position:static;
+}
+
+.phrase{
+  color:rgb(67, 63, 61);
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  text-align: center;
+  display: block;
+  position:static;
+}
+
+.phrase-autor{
+  color: rgb(67, 63, 61);
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  text-align: right;
+  margin-right: 30px;
+}
+
+body{
+  position:static;
+  background-color: rgb(216, 204, 199);
+  display: inline;
+  margin:10px;
+}
+
+.main{
+  background-color: rgb(184, 149, 130);
+  margin: 0px 10px 10px 10px;
+  display: block;
+  text-align: right;
+  font-style: italic;
+  font-size: 20px;
+  padding: 5px;
+  position:relative;
+}
+
+ 
+/*About me*/
+.profile{
+  padding: 3px;
+  margin: 0px 10px 0px 10px;
+}
+
+p, h5{
+  color:rgb(67, 63, 61););
+}
+
+h1{
+  color: rgb(67, 63, 61);
+  display: flex;
+  justify-content: center;
+}
+
+ .run {
+  padding: 10px;
+  margin: 10px;
+  height: 400px;
+  width: 300px;
+  border: 5px solid rgb(67, 63, 61);
+  display: inline-block;
+  position:static;
+}
+
+.kids{
+  padding: 10px;
+  
+  height: 300px;
+  width: 400px;
+  border: 5px solid rgb(67, 63, 61);
+  display: inline;
+  position:static;
+}
+
+.climb{
+  padding: 10px;
+
+  height: 400px;
+  width: 300px;
+  border: 5px solid rgb(67, 63, 61);
+  display: inline-block;
+  position:static;
+  }
+  
+.partner {
+  padding: 10px;
+ 
+  height: 400px;
+  width: 300px;
+  border: 5px solid rgb(67, 63, 61);
+  display: inline;
+  position:static;
+  }
+
+
+.photography{
+  padding: 10px;
+  height: 300px;
+  width: 400px;
+  border: 5px solid rgb(67, 63, 61);
+  display: inline-block;
+  position:static;
+}
+
+ /*Portfolio*/  
+
+.linkedIn{
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  position:static;
+  border-radius: 5%;
+  background-color: rgb(216, 204, 199);
+}
+
+.github{
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  position:static;
+  border-radius: 5%;
+}
+
+.fullstack{
+height: 80px;
+width: 150px;
+display: inline-block;
+position:static;
+}
+
+.csm{
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  position:static;
+}

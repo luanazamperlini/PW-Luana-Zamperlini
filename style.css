@@ -1,0 +1,183 @@
+ /*HOME*/
+ *{
+  margin: 0px;
+  padding: 0px;
+}
+
+.header{
+  background-color: rgb(238, 188, 166);
+  font-size: 40px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  padding: 40px;
+  margin: 10px 10px 0px 10px;
+  border: 3px solid rgb(184, 159, 147);
+}
+
+
+.name{
+color:rgb(192, 72, 12); 
+
+}
+
+.nav{
+  background-color: rgb(238, 188, 166);
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  text-align: center;
+  font-size: 20px;
+  padding: 20px;
+  margin: 0px 10px 0px 10px;
+  margin-top:0px;
+  margin-bottom:0px;
+  border: 3px solid rgb(184, 159, 147);
+  
+}
+
+
+main{
+  border: 3px solid rgb(184, 159, 147);
+  background-color: antiquewhite;
+  margin: 0px 10px 10px 10px;
+}
+
+.phrase{
+  color:rgb(192, 72, 12); 
+  background-color: antiquewhite;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  text-align: center;
+  position:static;
+  padding: 10px;
+  margin: 10px 10px 10px 10px;  
+  
+}
+
+.author{
+  color:rgb(192, 72, 12);   
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  text-align: right;
+  margin: 10px 10px 10px 10px;
+}
+
+.Selfie{
+  padding: 10px;
+  height: 500px;
+  width: 400px;
+  border: 3px solid rgb(184, 159, 147);
+  margin: 10px 10px 10px 500px;
+}
+
+ 
+/*About me*/
+
+.text{
+  padding: 3px;
+  margin: 0px 10px 0px 10px;
+}
+
+.message2{
+  color: rgb(47, 44, 42);
+  display: flex;
+  justify-content: center;
+}
+  
+p, h5{
+  color:rgb(67, 63, 61););
+}
+
+.photo{
+  display: inline-block;
+  border: 3px solid rgb(184, 159, 147);
+  background-color: rgb(216, 204, 199);
+  margin: 5px;
+}
+
+.run{
+  height: 250px;
+  width: 200px;
+  border: 3px solid rgb(184, 159, 147);
+  background-color: rgb(216, 204, 199);
+  padding: 5px;
+  margin: 10px;
+}
+
+.kids{
+  height: 250px;
+  width: 270px;
+  border: 3px solid rgb(184, 159, 147);
+  background-color: rgb(216, 204, 199);
+  padding: 5px;
+  margin: 10px;
+}
+
+.partner{
+  height: 250px;
+  width: 200px;
+  border: 3px solid rgb(184, 159, 147);
+  background-color: rgb(216, 204, 199);
+  padding: 5px;
+  margin: 10px;
+}
+
+.photography{
+  height: 250px;
+  width: 270px;
+  border: 3px solid rgb(184, 159, 147);
+  background-color: rgb(216, 204, 199);
+  padding: 5px;
+  margin: 10px;
+}
+
+.climb{
+  height: 250px;
+  width: 200px;
+  border: 3px solid rgb(184, 159, 147);
+  background-color: rgb(216, 204, 199);
+  padding: 5px;
+  margin: 10px;
+}
+ /*Portfolio*/  
+
+
+h2{
+  padding: 3px;
+  margin: 10px 10px 0px 10px;
+}
+ 
+.linkedIn{
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  position:static;
+  border-radius: 5%;
+  
+  
+}
+
+.github{
+  
+  height: 60px;
+  width: 60px;
+  display: inline-block;
+  position:static;
+  border-radius: 5%;
+  margin: 15px;
+}
+
+.fullstack{
+height: 80px;
+width: 200px;
+display: inline-block;
+position:static;
+
+}
+
+.csm{
+  height: 90px;
+  width: 90px;
+  display: inline-block;
+  position:static;
+ 
+}
